@@ -1425,6 +1425,14 @@ video {
   text-align: center;
 }
 
+.text-start {
+  text-align: start;
+}
+
+.indent-8 {
+  text-indent: 2rem;
+}
+
 .font-raleway {
   font-family: 'Raleway', sans-serif;
 }

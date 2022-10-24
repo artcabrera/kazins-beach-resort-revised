@@ -66,7 +66,7 @@ export default function Frame({
           </a>
         </Link>
 
-        <Link href="#">
+        <Link href="/about-us">
           <a className="group flex flex-col items-center space-y-1">
             <span className="tracking-[.2em]">ABOUT US</span>
             <span
@@ -187,7 +187,7 @@ export default function Frame({
                 ></span>
               </a>
             </Link>
-            <Link href="#">
+            <Link href="/about-us">
               <a className="group flex flex-col items-center space-y-1">
                 <span className="tracking-[.2em]">ABOUT US</span>
                 <span
